@@ -1,5 +1,5 @@
 # MusicPlayer
  
-<img href="/project/imagens/print1" alt="Music Player">
-<img href="/project/imagens/print2" alt="Music Player">
-<img href="/project/imagens/print3" alt="Music Player">
+<img scr="project/imagens/print1.png" alt="Music Player">
+<img scr="project/imagens/print2.png" alt="Music Player">
+<img scr="project/imagens/print3.png" alt="Music Player">
